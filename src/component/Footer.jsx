@@ -61,6 +61,7 @@ const Footer = () => {
         <VStack>
           <Avatar boxSize={"28"} mt={["4", "0"]} src={btcSrcc} />
           <Text>Our Founder</Text>
+          <Text align={"center"} >Kushagra Bhardwaj</Text>
         </VStack>
       </Stack>
     </Box>

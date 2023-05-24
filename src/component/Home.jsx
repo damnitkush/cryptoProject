@@ -24,7 +24,6 @@ const Home = () => {
           h={"full"}
           objectFit={"contain"}
           src={btcSrc}
-          filter={"grayscale(1)"}
         />
       </motion.div>
 
